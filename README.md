@@ -1,6 +1,8 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+<img width="200px;" src="https://github.com/shenmincai/shenmincai/blob/main/%EC%B6%98%EC%8B%9D%EC%9D%B4.png?raw=true"/>
+
+
 
 </div>
 
